@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/keshavjethaliya/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/keshavjethaliya/AndroidStudioProjects/SimpleDynamo/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,6,5",
+                        "startColumns": "-1,-1,4,4",
+                        "startOffsets": "-1,-1,206,159",
+                        "endColumns": "-1,-1,48,46",
+                        "endOffsets": "-1,-1,250,201"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "169,222,272,321",
+                        "endColumns": "52,49,48,46",
+                        "endOffsets": "217,267,316,363"
+                    }
+                },
+                {
+                    "source": "/Users/keshavjethaliya/AndroidStudioProjects/SimpleDynamo/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "8,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "368,451",
+                        "endLines": "10,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "446,518"
+                    }
+                },
+                {
+                    "source": "/Users/keshavjethaliya/AndroidStudioProjects/SimpleDynamo/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}
